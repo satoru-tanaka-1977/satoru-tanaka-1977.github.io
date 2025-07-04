@@ -7,7 +7,6 @@
 まだ勉強中ですが、これからも色々なことに挑戦していきます！
 もしよかったら、下のURLからWebページを見てみてください。
 
-[ここに、公開しているWebページのURLを書く]
-（例：https://あなたのユーザー名.github.io/リポジトリ名/）
+https://satoru-tanaka-1977.github.io/wcb-cafe/
 
 使ったもの：HTML、CSS
